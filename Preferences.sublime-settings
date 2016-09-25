@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Zeus/Sublime Text/Zeus-Sublime-Text.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		90
+	],
+	"save_on_focus_lost": true,
+	"word_wrap": true,
+	"wrap_width": 90
+}

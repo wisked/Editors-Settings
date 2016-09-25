@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Extended Completions",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"jQuery",
+		"JSHint",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"ReactJS",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-jshint",
+		"Zeus"
+	]
+}
